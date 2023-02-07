@@ -17,8 +17,6 @@ To create a file
 nano /usr/lib/systemd/system/filename.service
 
 ```
-```
-
 
 
 copy and paste given code with .service extention.
