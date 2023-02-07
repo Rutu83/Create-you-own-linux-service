@@ -19,7 +19,7 @@ nano /usr/lib/systemd/system/filename.service
 ```
 
 
-copy and paste given code with .service extention.
+copy and paste given code with{yourFilename} .service extention.
 
 ```[Unit]
 Description=Change MAC address at boot time
