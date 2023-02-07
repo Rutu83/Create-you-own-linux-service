@@ -1,0 +1,10 @@
+[Unit]
+
+Description= Rendom mac changer
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/macchanger -A eth0
+
+[Install]
+WantedBy=multi-user.target
